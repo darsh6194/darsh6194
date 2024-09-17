@@ -1,6 +1,16 @@
 # 💫 About Me:
-🌟 Passionate developer | Engineering student at AMC | Crafting impactful solutions with code 💻 | Open to collaboration 🚀
 
+# Hi, I'm M Darshan 👋
+
+Welcome to my GitHub profile! I'm a passionate **Machine Learning** and **Data Science** enthusiast with a strong interest in solving real-world problems using innovative technologies. My experience spans across various domains such as **computer vision**, **natural language processing**, **cyber security**, and **app development**.
+
+### 🔧 **Technologies I Work With**:
+- **Programming Languages**: Python, Dart, JavaScript, C++
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Web Development**: Flask, Streamlit, Node.js
+- **App Development**: Flutter
+- **Databases**: MongoDB, MySQL
+- **Tools**: VSCode, Git, Docker
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan___2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh6194) 
