@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate **Machine Learning** and **Data S
 
 ### 🔧 **Technologies I Work With**:
 - **Programming Languages**: Python, Dart, JavaScript, C++
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-learn,Seaborn,Matplotlib
 - **Web Development**: Flask, Streamlit, Node.js
 - **App Development**: Flutter
 - **Databases**: MongoDB, MySQL
-- **Tools**: VSCode, Git, Docker
+- **Tools**: VSCode, Git, jupyter notebook,
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshan___2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh6194) 
